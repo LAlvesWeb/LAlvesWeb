@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAlvesWeb
-- 👀 I’m interested in PHP, jQuery, AJAX, CSS3, HTML5, JavaScritp, collecting videogames.
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in PHP, jQuery, AJAX, CSS3, HTML5, JavaScript, collecting videogames.
+- 🌱 I’m currently learning ...
 - 📫 How to reach me luisalvesweb@gmail.com
 
 <!---
