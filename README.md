@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Luis Alves
+- 👋 Hi, I’m Luis Alves.
 - 👀 I’m interested in PHP, jQuery, AJAX, CSS3, HTML5, JavaScript, collecting videogames.
 - 📫 How to reach me luisalvesweb@gmail.com
